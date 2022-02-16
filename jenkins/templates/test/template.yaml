@@ -7,3 +7,4 @@ parameters:
   - name: user
     type: string
     displayName: Name of user
+    defaultValue: haavard
